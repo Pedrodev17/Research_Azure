@@ -1,5 +1,4 @@
 # Research_Azure
-Claro! Vou explicar como configurar uma pesquisa usando o **Azure IA** e compartilhar insights, possibilidades e aprendizados relacionados. Vamos lá:
 
  Criação de Recursos no Azure:
     - Antes de começar, você precisa criar um recurso **Azure AI Search** na sua assinatura do Azure. Esse recurso gerenciará a indexação e consulta dos dados.
